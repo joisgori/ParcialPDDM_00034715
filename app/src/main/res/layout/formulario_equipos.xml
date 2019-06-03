@@ -3,4 +3,30 @@
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent">
 
+    <TextView
+            android:text="Ingrese equipo A"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:id="@+id/tv_ingreseEA"/>
+    <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textPersonName"
+            android:text="Name"
+            android:ems="10"
+            android:id="@+id/et_ingreseEA"/>
+    <TextView
+            android:text="Ingrese equipo B"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:id="@+id/tv_ingreseEB"/>
+    <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textPersonName"
+            android:text="Name"
+            android:ems="10"
+            android:id="@+id/et_ingreseEB"/>
+    <Button
+            android:text="Enviar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:id="@+id/btn_enviar"/>
 </LinearLayout>

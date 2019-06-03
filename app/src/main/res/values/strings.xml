@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">RegistroBKB</string>
+    <string name="text_team_a">ta</string>
+    <string name="action_3_points">action3</string>
+    <string name="action_2_points">action2</string>
+    <string name="action_free_throw">actionfthrow</string>
+    <string name="text_team_b">teamb</string>
+    <string name="action_reset">reset</string>
 </resources>
