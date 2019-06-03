@@ -18,4 +18,8 @@ data class TablaMarcador (
 
     @ColumnInfo(name = "puntajeB")
     var puntajeB: String
+
+    /*
+    * No olvidar agregar la fecha y la hora :V
+    * */
 )
